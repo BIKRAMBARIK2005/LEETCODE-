@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
