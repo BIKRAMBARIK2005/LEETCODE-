@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0241-different-ways-to-add-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
