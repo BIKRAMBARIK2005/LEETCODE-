@@ -110,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0260-single-number-iii) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
