@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0257-binary-tree-paths) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
