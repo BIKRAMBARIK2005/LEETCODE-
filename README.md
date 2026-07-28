@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0275-h-index-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0275-h-index-ii) |
 ## Prefix Sum
 |  |
 | ------- |
