@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0279-perfect-squares) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0279-perfect-squares) |
 ## Recursion
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0278-first-bad-version) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
