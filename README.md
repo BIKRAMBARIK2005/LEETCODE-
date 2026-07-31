@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0279-perfect-squares) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
