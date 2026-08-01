@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0289-game-of-life) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0289-game-of-life) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0289-game-of-life) |
 ## Number Theory
 |  |
 | ------- |
