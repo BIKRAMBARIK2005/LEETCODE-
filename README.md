@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0290-word-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0290-word-pattern) |
 ## Sorting
 |  |
 | ------- |
