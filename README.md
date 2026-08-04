@@ -48,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0284-peeking-iterator](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0303-range-sum-query-immutable) |
 ## Iterator
 |  |
 | ------- |
