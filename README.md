@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0307-range-sum-query-mutable) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0307-range-sum-query-mutable) |
 ## Matrix
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0307-range-sum-query-mutable) |
 ## Iterator
 |  |
 | ------- |
@@ -209,4 +212,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0300-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
