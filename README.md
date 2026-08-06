@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0306-additive-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0306-additive-number) |
 ## Simulation
 |  |
 | ------- |
