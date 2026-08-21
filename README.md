@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0310-minimum-height-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0310-minimum-height-trees) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0307-range-sum-query-mutable) |
+## Graph Theory
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
