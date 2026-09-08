@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0313-super-ugly-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0313-super-ugly-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0313-super-ugly-number) |
 ## String
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0313-super-ugly-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0313-super-ugly-number) |
 ## Recursion
 |  |
 | ------- |
