@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0321-create-maximum-number) |
+| [0322-coin-change](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0322-coin-change) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0322-coin-change) |
 ## Recursion
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0322-coin-change) |
 ## Two Pointers
 |  |
 | ------- |
@@ -279,4 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0321-create-maximum-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
