@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0318-maximum-product-of-word-lengths) |
+| [0321-create-maximum-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0321-create-maximum-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0321-create-maximum-number) |
 ## Design
 |  |
 | ------- |
@@ -266,12 +268,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0321-create-maximum-number) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0321-create-maximum-number) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
