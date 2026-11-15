@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0318-maximum-product-of-word-lengths](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0318-maximum-product-of-word-lengths) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0318-maximum-product-of-word-lengths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/BIKRAMBARIK2005/LEETCODE-/tree/master/0318-maximum-product-of-word-lengths) |
 ## Database
 |  |
 | ------- |
